@@ -4977,9 +4977,13 @@
         "stroke": "#e10000",
         "stroke-width": 8,
         "stroke-opacity": 0.5,
-        "marker-color": "#e10000",
-        "marker-size": "small",
-        "marker-symbol": "square"
+        "direction_id": 0,
+        "route_id": 1280,
+        "agency_id": 69,
+        "route_short_name": "60F",
+        "route_long_name": "JNAMBA060",
+        "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+        "route_type": 3
       },
       "geometry": {
         "type": "LineString",
@@ -7553,9 +7557,13 @@
         "stroke": "#200efe",
         "stroke-width": 8,
         "stroke-opacity": 0.5,
-        "marker-color": "#e10000",
-        "marker-size": "small",
-        "marker-symbol": "square"
+        "direction_id": 0,
+        "route_id": 1280,
+        "agency_id": 69,
+        "route_short_name": "60F",
+        "route_long_name": "JNAMBA060",
+        "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+        "route_type": 3
       },
       "geometry": {
         "type": "LineString",
