@@ -1,0 +1,24 @@
+{
+    "jsonPathExtract.savedQueries": [
+        {
+            "output": "json",
+            "query": "$.features[?(@.properties.sel>0 && @.properties.direction_id==0)]",
+            "title": "Obtener paradas seleccionadas - direction = 0"
+        },
+        {
+            "output": "json",
+            "query": "$.features[?(@.properties.sel>0 && @.properties.direction_id==1)]",
+            "title": "Obtener paradas seleccionadas - direction = 1"
+        },
+        {
+            "output": "json",
+            "query": "$.features[?(@.geometry.type=='LineString' && @.properties.direction_id==1)]",
+            "title": "Obtener recorrido - direction = 1"
+        },
+        {
+            "output": "json",
+            "query": "$.features[?(@.geometry.type=='LineString' && @.properties.direction_id==0)]",
+            "title": "Obtener recorrido - direction = 0"
+        }
+    ]
+}

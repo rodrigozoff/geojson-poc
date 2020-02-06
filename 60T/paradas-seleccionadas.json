@@ -1,0 +1,581 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "stop_id": 2022,
+                "stop_code": 2022,
+                "stop_name": "1569 RIVADAVIA AV.",
+                "stop_lat": -34.60904,
+                "stop_lon": -58.388727,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.388727, -34.60904]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 2037,
+                "stop_code": 2037,
+                "stop_name": "315 CALLAO AV.",
+                "stop_lat": -34.6054,
+                "stop_lon": -58.392207,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.392207, -34.6054]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 20491,
+                "stop_code": 20491,
+                "stop_name": "124 SAENZ PE?A LUIS PRES.",
+                "stop_lat": -34.610333,
+                "stop_lon": -58.387532,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.387532, -34.610333]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 20495,
+                "stop_code": 20495,
+                "stop_name": "424 SAENZ PE?A LUIS PRES.",
+                "stop_lat": -34.613833,
+                "stop_lon": -58.387505,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "stroke-width": "",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.387505, -34.613833]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 207138,
+                "stop_code": 207138,
+                "stop_name": "83 CALLAO AV.",
+                "stop_lat": -34.608255,
+                "stop_lon": -58.392015,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-size": "medium",
+                "marker-color": "#e10000",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.392015, -34.608255]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805101331,
+                "stop_code": 6805101331,
+                "stop_name": "SANTA MARIA DE LAS CONCHAS 2945",
+                "stop_lat": -34.415425,
+                "stop_lon": -58.601647,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.601647, -34.415425]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805104933,
+                "stop_code": 6805104933,
+                "stop_name": "SANTA MARIA DE LAS CONCHAS 3087",
+                "stop_lat": -34.414847,
+                "stop_lon": -58.602933,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.602933, -34.414847]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805105198,
+                "stop_code": 6805105198,
+                "stop_name": "AVENIDA SANTA MARÍA DE LAS CONCHAS 3249-3299",
+                "stop_lat": -34.41415,
+                "stop_lon": -58.604332,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.604332, -34.41415]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805106626,
+                "stop_code": 6805106626,
+                "stop_name": "CALLAO 600-698",
+                "stop_lat": -34.409868,
+                "stop_lon": -58.599932,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.599932, -34.409868]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805107661,
+                "stop_code": 6805107661,
+                "stop_name": "CALLAO 1249-1299",
+                "stop_lat": -34.415527,
+                "stop_lon": -58.600712,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "sel": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.600712, -34.415527]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805109093,
+                "stop_code": 6805109093,
+                "stop_name": "CALLAO 800-898",
+                "stop_lat": -34.411723,
+                "stop_lon": -58.600182,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.600182, -34.411723]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805114301,
+                "stop_code": 6805114301,
+                "stop_name": "CALLAO 1000-1098",
+                "stop_lat": -34.413652,
+                "stop_lon": -58.600452,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.600452, -34.413652]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805125306,
+                "stop_code": 6805125306,
+                "stop_name": "CALLAO 950",
+                "stop_lat": -34.412768,
+                "stop_lon": -58.600327,
+                "direction_id": 0,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#e10000",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.600327, -34.412768]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 20390,
+                "stop_code": 20390,
+                "stop_name": "222 RODRIGUEZ PE?A",
+                "stop_lat": -34.606412,
+                "stop_lon": -58.390758,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.390758, -34.606412]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 20598,
+                "stop_code": 20598,
+                "stop_name": "1610 YRIGOYEN HIPOLITO AV.",
+                "stop_lat": -34.610128,
+                "stop_lon": -58.38926,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "sel": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.38926, -34.610128]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 206788,
+                "stop_code": 206788,
+                "stop_name": "50 RODRIGUEZ PE?A",
+                "stop_lat": -34.608555,
+                "stop_lon": -58.390595,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.390595, -34.608555]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805101944,
+                "stop_code": 6805101944,
+                "stop_name": "CALLAO 1099-1199",
+                "stop_lat": -34.414042,
+                "stop_lon": -58.600513,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.600513, -34.414042]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805102349,
+                "stop_code": 6805102349,
+                "stop_name": "AVENIDA SANTA MARÍA DE LAS CONCHAS 3398",
+                "stop_lat": -34.413337,
+                "stop_lon": -58.606338,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.606338, -34.413337]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805103450,
+                "stop_code": 6805103450,
+                "stop_name": "CALLAO 699-799",
+                "stop_lat": -34.41024,
+                "stop_lon": -58.599985,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.599985, -34.41024]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805104434,
+                "stop_code": 6805104434,
+                "stop_name": "AVENIDA SANTA MARÍA DE LAS CONCHAS 3134-3198",
+                "stop_lat": -34.415022,
+                "stop_lon": -58.602537,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.602537, -34.415022]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805108041,
+                "stop_code": 6805108041,
+                "stop_name": "CALLAO 1027",
+                "stop_lat": -34.41305,
+                "stop_lon": -58.600372,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "stroke": "",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.600372, -34.41305]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805109541,
+                "stop_code": 6805109541,
+                "stop_name": "CALLAO 899-999",
+                "stop_lat": -34.412132,
+                "stop_lon": -58.600242,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.600242, -34.412132]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stop_id": 6805112103,
+                "stop_code": 6805112103,
+                "stop_name": "AVENIDA SANTA MARÍA DE LAS CONCHAS 3300-3348",
+                "stop_lat": -34.413872,
+                "stop_lon": -58.605183,
+                "direction_id": 1,
+                "route_id": 1280,
+                "agency_id": 69,
+                "route_short_name": "60F",
+                "route_long_name": "JNAMBA060",
+                "route_desc": "F - Barracas x Alto San Isidro y Alto Tigre - Rincon de Milberg",
+                "route_type": 3,
+                "marker-color": "#200efe",
+                "marker-size": "medium",
+                "marker-symbol": "square",
+                "sel": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.605183, -34.413872]
+            }
+        }
+    ]
+}
